@@ -12,7 +12,7 @@ import {
   AgentsView,
   AgentsViewError,
   AgentsViewLoading,
-} from "@/modules/agents/ui/agents-view";
+} from "@/modules/agents/ui/views/agents-view";
 import { loadSearchParams } from "@/modules/agents/params";
 import { AgentsListHeader } from "@/modules/agents/ui/components/agents-list-header";
 
