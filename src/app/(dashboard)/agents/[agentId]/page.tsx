@@ -7,7 +7,7 @@ import {
   AgentIdView,
   AgentIdViewError,
   AgentIdViewLoading,
-} from "@/modules/agents/ui/agent-id-view";
+} from "@/modules/agents/ui/views/agent-id-view";
 
 interface Props {
   params: Promise<{ agentId: string }>;
